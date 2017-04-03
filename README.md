@@ -1,2 +1,2 @@
 # PWM-driver
-pwm
+This a generic driver for pwm in atmega32
